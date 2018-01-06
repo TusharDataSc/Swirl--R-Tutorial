@@ -24,7 +24,7 @@ swirl()
 ## Step 6 : Have fun !
 
 ## Important Notes :
-info() - gives you info about various useful shortcuts 
+### info() - gives you info about various useful shortcuts 
 
 -- Typing skip() allows you to skip current question
 
