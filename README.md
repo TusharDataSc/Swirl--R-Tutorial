@@ -22,3 +22,10 @@ swirl()
 ## Step 5 : Install an interactive course
 
 ## Step 6 : Have fun !
+
+## Important Notes :
+## info() - gives you info about various useful shortcuts 
+## -- Typing skip() allows you to skip current question
+## -- Typing play() lets you experiment with R on your own; swirl will ignore what you do...
+
+
