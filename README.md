@@ -24,12 +24,18 @@ swirl()
 ## Step 6 : Have fun !
 
 ## Important Notes :
-info() - gives you info about various useful shortcuts 
+### info() - gives you info about various useful shortcuts 
+
 -- Typing skip() allows you to skip current question
+
 -- Typing play() lets you experiment with R on your own; swirl will ignore what you do...
+
 -- UNTIL you type nxt() which will regain swirl's attention.
+
 -- Typing bye() causes swirl to exit. Your progress will be saved.
+
 -- Typing main() returns you to swirl's main menu.
+
 -- Typing info() displays these options again.
 
 
