@@ -1,4 +1,6 @@
 # load text data with read.table() and csv file with read.csv()
+# | The Flags dataset from the UCI Machine Learning Repository contains details of various nations and their flags. More
+# | information may be found here: http://archive.ics.uci.edu/ml/datasets/Flags
 flags <- read.table("flag.data.txt")
 
 # preview first six lines of the dataset
